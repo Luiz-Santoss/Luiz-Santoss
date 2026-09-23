@@ -129,3 +129,28 @@ Entre as funcionalidades planejadas estão o **gerenciamento de alunos e gradua�
 </div>
 
 <br>
+
+<!-- ==================== CONTATO ==================== -->
+
+## 📬 Contato
+
+<div align="center">
+
+Interessado em tecnologia, desenvolvimento, pesquisa ou colaboração em projetos?  
+Entre em contato comigo:
+
+<br><br>
+
+<a href="mailto:luiz.brbssantos@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-SEU_EMAIL_PROFISSIONAL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://github.com/Luiz-Santoss">
+  <img src="https://img.shields.io/badge/GitHub-Luiz--Santoss-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<!-- LinkedIn será adicionado futuramente -->
+
+</div>
+
+<br>
