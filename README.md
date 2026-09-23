@@ -141,8 +141,8 @@ Entre em contato comigo:
 
 <br><br>
 
-<a href="mailto:luiz.brbssantos@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-SEU_EMAIL_PROFISSIONAL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="luiz.brbssantos@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-luiz.contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://github.com/Luiz-Santoss">
@@ -154,3 +154,17 @@ Entre em contato comigo:
 </div>
 
 <br>
+
+<br>
+
+<!-- ==================== RODAPÉ ==================== -->
+
+<div align="center">
+
+### 💻 Transformando ideias em projetos, um commit de cada vez.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer" width="100%" alt="Rodapé"/>
+
+</div>
